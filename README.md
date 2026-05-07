@@ -22,7 +22,7 @@ Currently working on mobile and web projects, continuously improving my developm
 ### 🌐 Web Development
 
 * Frontend: HTML, CSS, JavaScript
-* Backend: (Add your backend language here, e.g., Node.js / PHP)
+* Backend: ( Node.js / PHP)
 * Database: MySQL / Firebase
 
 ### ⚙️ Tools & Technologies
